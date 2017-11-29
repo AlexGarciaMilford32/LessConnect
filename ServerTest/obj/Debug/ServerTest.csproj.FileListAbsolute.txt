@@ -1,0 +1,6 @@
+E:\Projects\LessConnect\ServerTest\bin\Debug\ServerTest.exe.config
+E:\Projects\LessConnect\ServerTest\bin\Debug\ServerTest.exe
+E:\Projects\LessConnect\ServerTest\bin\Debug\ServerTest.pdb
+E:\Projects\LessConnect\ServerTest\obj\Debug\ServerTest.exe
+E:\Projects\LessConnect\ServerTest\obj\Debug\ServerTest.pdb
+E:\Projects\LessConnect\ServerTest\obj\Debug\ServerTest.csprojResolveAssemblyReference.cache

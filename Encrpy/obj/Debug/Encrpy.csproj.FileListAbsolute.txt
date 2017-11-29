@@ -1,0 +1,6 @@
+E:\Projects\LessConnect\Encrpy\bin\Debug\Encrpy.exe.config
+E:\Projects\LessConnect\Encrpy\bin\Debug\Encrpy.exe
+E:\Projects\LessConnect\Encrpy\bin\Debug\Encrpy.pdb
+E:\Projects\LessConnect\Encrpy\obj\Debug\Encrpy.csprojResolveAssemblyReference.cache
+E:\Projects\LessConnect\Encrpy\obj\Debug\Encrpy.exe
+E:\Projects\LessConnect\Encrpy\obj\Debug\Encrpy.pdb

@@ -1,0 +1,10 @@
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\bin\Debug\SoftwareLocker.dll
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\bin\Debug\SoftwareLocker.pdb
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\bin\Debug\FilterControls.dll
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\bin\Debug\SerialBoxes.pdb
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\bin\Debug\FilterControls.pdb
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\obj\Debug\TrialMaker.csprojResolveAssemblyReference.cache
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\obj\Debug\SoftwareLocker.frmDialog.resources
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\obj\Debug\TrialMaker.csproj.GenerateResource.Cache
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\obj\Debug\SoftwareLocker.dll
+E:\Projects\LessConnect\Research\TrialMaker\TrialMaker\obj\Debug\SoftwareLocker.pdb

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../ClientTest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Encrpy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LessConnect" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../LessConnect Activate Product" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ServerTest" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ClientTest/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ClientTest/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Encrpy/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Encrpy/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LessConnect Activate Product/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LessConnect Activate Product/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LessConnect/Application Recourses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LessConnect/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../LessConnect/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ServerTest/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ServerTest/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../LessConnect Client/LessConnect Client">
+      <sourceFolder url="file://$MODULE_DIR$/../../../LessConnect Client/LessConnect Client" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../LessConnect Client/LessConnect Client/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../LessConnect Client/LessConnect Client/obj" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../LessConnect Integrated/LessConnect LogUpload">
+      <sourceFolder url="file://$MODULE_DIR$/../../../LessConnect Integrated/LessConnect LogUpload" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../LessConnect Integrated/LessConnect LogUpload/obj" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

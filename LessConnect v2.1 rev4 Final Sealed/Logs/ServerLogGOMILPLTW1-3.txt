@@ -1,0 +1,16 @@
+Starting a System check...    -    9/6/2017 7:28:42 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+System check came back with (0) Errors!    -    9/6/2017 7:28:42 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    9/6/2017 7:28:42 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    9/6/2017 7:28:42 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    9/6/2017 7:30:47 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    9/6/2017 7:30:55 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    9/6/2017 7:31:03 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    9/6/2017 7:31:08 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    9/6/2017 7:31:17 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    9/6/2017 7:31:18 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    9/6/2017 7:31:18 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    9/6/2017 7:31:19 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    9/6/2017 7:31:27 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (10) Time(s)!    -    9/6/2017 7:32:04 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (11) Time(s)!    -    9/6/2017 7:32:04 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    9/6/2017 7:32:30 AM   GOMILPLTW1-3   Microsoft Windows NT 6.2.9200.0

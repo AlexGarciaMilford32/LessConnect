@@ -1,0 +1,21 @@
+Starting a System check...    -    8/21/2017 7:00:08 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+System check came back with (0) Errors!    -    8/21/2017 7:00:08 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/21/2017 7:00:08 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/21/2017 7:00:08 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/21/2017 7:00:23 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/21/2017 7:00:51 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/21/2017 7:01:18 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/21/2017 7:01:19 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    8/21/2017 7:01:20 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    8/21/2017 7:01:33 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    8/21/2017 7:02:33 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    8/21/2017 7:02:43 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    8/21/2017 7:02:55 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/21/2017 7:02:57 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+System check came back with (0) Errors!    -    8/21/2017 7:02:58 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/21/2017 7:02:58 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    8/21/2017 7:02:59 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/21/2017 7:02:59 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+There was an error in stopping ther server abort Connection and closing Application now...    -    8/21/2017 7:03:00 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (10) Time(s)!    -    8/21/2017 7:03:02 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (11) Time(s)!    -    8/21/2017 7:03:04 AM   GOMILPLTW1-2   Microsoft Windows NT 6.2.9200.0

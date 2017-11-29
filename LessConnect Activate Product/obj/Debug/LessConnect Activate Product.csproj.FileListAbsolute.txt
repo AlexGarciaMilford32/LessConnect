@@ -1,0 +1,9 @@
+E:\Projects\LessConnect\LessConnect Activate Product\bin\Debug\LessConnect Activate Product.exe.config
+E:\Projects\LessConnect\LessConnect Activate Product\bin\Debug\LessConnect Activate Product.exe
+E:\Projects\LessConnect\LessConnect Activate Product\bin\Debug\LessConnect Activate Product.pdb
+E:\Projects\LessConnect\LessConnect Activate Product\obj\Debug\LessConnect_Activate_Product.Form1.resources
+E:\Projects\LessConnect\LessConnect Activate Product\obj\Debug\LessConnect_Activate_Product.Properties.Resources.resources
+E:\Projects\LessConnect\LessConnect Activate Product\obj\Debug\LessConnect Activate Product.csproj.GenerateResource.Cache
+E:\Projects\LessConnect\LessConnect Activate Product\obj\Debug\LessConnect Activate Product.exe
+E:\Projects\LessConnect\LessConnect Activate Product\obj\Debug\LessConnect Activate Product.pdb
+E:\Projects\LessConnect\LessConnect Activate Product\obj\Debug\LessConnect Activate Product.csprojResolveAssemblyReference.cache

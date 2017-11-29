@@ -1,0 +1,4 @@
+Starting a System check...    -    11/17/2017 12:21:08 PM   GOMILPLTW1-25   Microsoft Windows NT 6.2.9200.0
+System check came back with (0) Errors!    -    11/17/2017 12:21:09 PM   GOMILPLTW1-25   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/17/2017 12:21:09 PM   GOMILPLTW1-25   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/17/2017 12:21:09 PM   GOMILPLTW1-25   Microsoft Windows NT 6.2.9200.0

@@ -1,0 +1,3 @@
+In order to test instantmessenger
+1. Run InstantMessengerServer
+2. Run 2 or more times InstantMessenger.

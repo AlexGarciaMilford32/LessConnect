@@ -1,0 +1,8 @@
+TCP Client
+
+https://msdn.microsoft.com/en-us/library/system.net.sockets.tcpclient.aspx?cs-save-lang=1&cs-lang=csharp#code-snippet-1
+
+
+TCP Server 
+
+https://msdn.microsoft.com/en-us/library/system.net.sockets.tcplistener(v=vs.110).aspx

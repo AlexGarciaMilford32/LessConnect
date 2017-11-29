@@ -1,0 +1,6 @@
+D:\Projects\LessConnect\Research\Testing\Client test REVISION 2\bin\Debug\Client test REVISION 2.exe.config
+D:\Projects\LessConnect\Research\Testing\Client test REVISION 2\bin\Debug\Client test REVISION 2.exe
+D:\Projects\LessConnect\Research\Testing\Client test REVISION 2\bin\Debug\Client test REVISION 2.pdb
+D:\Projects\LessConnect\Research\Testing\Client test REVISION 2\obj\Debug\Client test REVISION 2.csprojResolveAssemblyReference.cache
+D:\Projects\LessConnect\Research\Testing\Client test REVISION 2\obj\Debug\Client test REVISION 2.exe
+D:\Projects\LessConnect\Research\Testing\Client test REVISION 2\obj\Debug\Client test REVISION 2.pdb

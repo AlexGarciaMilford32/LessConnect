@@ -1,0 +1,16 @@
+Starting a System check...    -    11/11/2017 3:58:20 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 3:58:21 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:58:21 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:58:22 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 4:05:01 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 4:05:02 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 4:05:02 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 4:05:02 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 4:07:03 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+System check came back with (2) Errors!    -    11/11/2017 4:07:04 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 4:07:04 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 4:07:04 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 4:07:44 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 4:07:45 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 4:07:45 PM   PATTY   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 4:07:45 PM   PATTY   Microsoft Windows NT 6.2.9200.0

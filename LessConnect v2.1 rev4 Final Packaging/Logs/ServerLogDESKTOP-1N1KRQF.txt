@@ -1,0 +1,562 @@
+Starting a System check...    -    8/13/2017 8:31:33 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/13/2017 8:31:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/13/2017 8:31:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/13/2017 8:31:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/13/2017 8:31:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/13/2017 8:31:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/13/2017 8:32:00 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/13/2017 8:32:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    8/13/2017 8:32:09 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 8:32:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/13/2017 8:32:11 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/13/2017 10:09:18 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/13/2017 10:09:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/13/2017 10:09:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/13/2017 10:09:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/13/2017 10:09:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/13/2017 10:10:09 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/13/2017 10:10:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/13/2017 10:10:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 10:10:20 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/13/2017 10:10:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    8/13/2017 10:14:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    8/13/2017 10:15:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/13/2017 11:05:15 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/13/2017 11:05:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/13/2017 11:05:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    8/13/2017 11:05:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/13/2017 11:05:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+There was an error in stopping ther server abort Connection and closing Application now...    -    8/13/2017 11:05:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/13/2017 11:05:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/13/2017 11:05:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/13/2017 11:05:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    8/13/2017 11:05:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/13/2017 11:05:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:07:45 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:07:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:07:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/13/2017 11:08:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/13/2017 11:11:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/13/2017 11:11:45 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/13/2017 11:11:45 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/13/2017 11:11:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/13/2017 11:12:08 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/13/2017 11:13:12 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/13/2017 11:13:15 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/13/2017 11:13:18 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    8/13/2017 11:13:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    8/13/2017 11:13:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    8/13/2017 11:14:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    8/13/2017 11:14:11 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    8/13/2017 11:14:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (10) Time(s)!    -    8/13/2017 11:14:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (11) Time(s)!    -    8/13/2017 11:14:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (12) Time(s)!    -    8/13/2017 11:15:00 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (13) Time(s)!    -    8/13/2017 11:15:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (14) Time(s)!    -    8/13/2017 11:15:19 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (15) Time(s)!    -    8/13/2017 11:15:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (16) Time(s)!    -    8/13/2017 11:15:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (17) Time(s)!    -    8/13/2017 11:15:56 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (18) Time(s)!    -    8/13/2017 11:16:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (19) Time(s)!    -    8/13/2017 11:16:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (20) Time(s)!    -    8/13/2017 11:18:06 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (21) Time(s)!    -    8/13/2017 11:18:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (22) Time(s)!    -    8/13/2017 11:18:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (23) Time(s)!    -    8/13/2017 11:18:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (24) Time(s)!    -    8/13/2017 11:19:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (25) Time(s)!    -    8/13/2017 11:21:19 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (26) Time(s)!    -    8/13/2017 11:21:39 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (27) Time(s)!    -    8/13/2017 11:21:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (28) Time(s)!    -    8/13/2017 11:21:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (29) Time(s)!    -    8/13/2017 11:21:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (30) Time(s)!    -    8/13/2017 11:21:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (31) Time(s)!    -    8/13/2017 11:22:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:19 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/15/2017 5:52:20 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/15/2017 5:52:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/15/2017 6:59:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/15/2017 6:59:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/15/2017 6:59:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/15/2017 6:59:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/15/2017 7:00:06 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/15/2017 7:00:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/15/2017 7:00:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/15/2017 7:00:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    8/15/2017 7:00:54 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    8/15/2017 7:00:56 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    8/15/2017 7:01:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    8/15/2017 7:01:15 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    8/15/2017 7:01:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (10) Time(s)!    -    8/15/2017 7:02:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (11) Time(s)!    -    8/15/2017 9:24:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/15/2017 9:38:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/15/2017 9:38:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/15/2017 9:38:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/15/2017 9:38:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/15/2017 9:38:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/15/2017 9:38:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/15/2017 9:38:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/15/2017 9:38:45 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 12:39:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/19/2017 12:39:31 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 12:39:31 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 12:39:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/19/2017 12:39:38 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 12:58:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/19/2017 12:58:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 12:58:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 12:58:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    8/19/2017 1:06:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 1:21:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/19/2017 1:21:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 1:21:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 1:21:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/19/2017 1:21:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/19/2017 1:21:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/19/2017 1:21:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/19/2017 1:21:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    8/19/2017 1:21:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 1:22:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/19/2017 1:22:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 1:22:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 1:23:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (2) Errors!    -    8/19/2017 1:23:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 1:23:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 1:23:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    8/19/2017 1:23:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    8/19/2017 1:23:18 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 1:23:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (3) Errors!    -    8/19/2017 1:23:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 1:23:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    8/19/2017 1:23:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 1:23:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    8/19/2017 1:23:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    8/19/2017 1:23:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (10) Time(s)!    -    8/19/2017 1:23:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (11) Time(s)!    -    8/19/2017 1:24:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (12) Time(s)!    -    8/19/2017 1:24:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (13) Time(s)!    -    8/19/2017 1:24:33 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (14) Time(s)!    -    8/19/2017 1:24:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (15) Time(s)!    -    8/19/2017 1:24:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (16) Time(s)!    -    8/19/2017 1:25:14 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (17) Time(s)!    -    8/19/2017 1:25:27 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 1:25:38 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/19/2017 1:25:39 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 1:26:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/19/2017 1:26:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 1:26:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 1:26:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/19/2017 1:29:39 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/19/2017 1:29:45 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/19/2017 1:29:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/19/2017 1:30:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    8/19/2017 1:30:27 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 1:30:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 1:31:07 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 2:24:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/19/2017 2:24:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 2:24:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 2:24:54 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/19/2017 2:24:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/19/2017 2:25:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/19/2017 2:25:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/19/2017 2:25:08 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 2:25:12 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/19/2017 2:25:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/19/2017 3:07:54 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/19/2017 3:07:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/19/2017 3:07:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/19/2017 3:07:56 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/19/2017 3:08:00 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    8/19/2017 3:08:08 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    8/19/2017 3:08:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    8/19/2017 3:08:12 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    8/19/2017 3:08:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    8/19/2017 3:08:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    8/19/2017 3:09:00 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    8/19/2017 3:09:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    8/19/2017 3:09:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 3:09:45 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/19/2017 3:09:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/19/2017 3:09:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    8/20/2017 3:57:43 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    8/20/2017 3:57:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    8/20/2017 3:57:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    8/20/2017 3:57:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    8/20/2017 3:57:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    8/20/2017 3:58:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    8/20/2017 3:58:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    9/3/2017 1:27:27 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    9/3/2017 1:27:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    9/3/2017 1:27:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    9/3/2017 1:27:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    9/3/2017 1:27:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    9/3/2017 1:27:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    9/3/2017 1:27:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    9/3/2017 1:27:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    9/3/2017 1:27:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    9/3/2017 1:27:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    9/3/2017 1:27:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    9/3/2017 1:28:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    9/3/2017 1:28:07 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (10) Time(s)!    -    9/3/2017 1:28:09 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (11) Time(s)!    -    9/3/2017 1:28:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (12) Time(s)!    -    9/3/2017 1:29:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (13) Time(s)!    -    9/3/2017 1:29:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (14) Time(s)!    -    9/3/2017 2:04:38 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    10/9/2017 5:56:20 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    10/9/2017 5:56:33 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Error... Incorrect password for Developer Options    -    10/9/2017 5:56:39 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    10/10/2017 6:23:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 12:26:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 12:26:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 12:26:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 12:26:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (1) Time(s)!    -    11/4/2017 12:26:54 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (2) Time(s)!    -    11/4/2017 12:26:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (3) Time(s)!    -    11/4/2017 12:27:08 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (4) Time(s)!    -    11/4/2017 12:27:09 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (5) Time(s)!    -    11/4/2017 12:27:12 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (6) Time(s)!    -    11/4/2017 12:27:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (7) Time(s)!    -    11/4/2017 12:27:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (8) Time(s)!    -    11/4/2017 12:27:55 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (9) Time(s)!    -    11/4/2017 12:28:15 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (10) Time(s)!    -    11/4/2017 12:28:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Execution Comeplete and user had called remotely (11) Time(s)!    -    11/4/2017 12:28:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/4/2017 12:28:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    11/4/2017 12:28:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 2:57:39 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 2:57:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 2:57:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 2:57:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 2:59:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 2:59:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 2:59:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 2:59:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/4/2017 2:59:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    11/4/2017 3:00:00 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:00:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:00:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:00:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:00:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/4/2017 3:01:08 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    11/4/2017 3:01:09 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:03:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:03:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:03:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:03:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:06:09 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:06:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:06:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:06:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:07:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:07:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:07:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:07:11 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:07:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:07:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:07:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:07:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:15:12 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:15:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:15:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:15:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:38:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:38:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:38:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:38:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:40:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:40:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:40:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:40:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:43:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:43:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:43:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:43:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:45:12 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:45:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:45:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:45:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/4/2017 3:45:43 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/4/2017 3:45:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/4/2017 3:45:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/4/2017 3:45:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 4:55:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 4:55:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 4:55:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 4:55:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 5:07:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 5:07:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 5:07:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 5:07:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 5:07:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (2) Errors!    -    11/8/2017 5:07:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 5:07:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/8/2017 5:07:38 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 5:07:38 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/8/2017 5:07:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    11/8/2017 5:07:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/8/2017 5:07:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/8/2017 5:07:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/8/2017 5:07:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/8/2017 5:07:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/8/2017 5:07:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/8/2017 5:07:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 5:27:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 5:27:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 5:27:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 5:27:27 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 5:28:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 5:28:43 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 5:28:43 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 5:28:43 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 6:03:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 6:03:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 6:03:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 6:03:33 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 6:06:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 6:06:31 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 6:06:31 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/8/2017 6:06:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 6:06:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 6:13:51 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 6:13:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 6:13:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 6:13:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 6:14:43 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 6:14:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 6:14:44 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/8/2017 6:14:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 6:14:46 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 6:58:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 6:58:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 6:58:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 6:58:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 6:58:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/8/2017 6:58:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 6:58:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/8/2017 6:58:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 6:58:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/8/2017 6:58:56 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (2) Errors!    -    11/8/2017 6:58:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/8/2017 6:58:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/8/2017 6:58:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/8/2017 6:58:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/10/2017 5:00:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/10/2017 5:00:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/10/2017 5:00:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/10/2017 5:00:37 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/10/2017 5:00:37 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/10/2017 5:03:03 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/10/2017 5:03:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/10/2017 5:03:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/10/2017 5:03:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/10/2017 5:03:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/10/2017 5:04:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/10/2017 5:04:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/10/2017 5:04:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a Problem Starting...    -    11/10/2017 5:04:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/10/2017 5:04:59 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 11:44:13 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 11:44:14 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 11:44:14 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 11:44:14 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/11/2017 11:51:22 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Had a crash something went wrong...    -    11/11/2017 11:51:23 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 12:13:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 12:13:37 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 12:13:37 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 12:13:37 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/11/2017 12:29:37 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 12:37:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 12:37:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 12:37:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 12:37:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/11/2017 12:40:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 2:23:34 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 2:23:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 2:23:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 2:23:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 2:26:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 2:26:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 2:26:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 2:26:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/11/2017 2:26:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 2:39:20 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 2:39:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 2:39:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 2:39:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 3:01:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 3:01:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:01:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:01:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/11/2017 3:08:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 3:22:31 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 3:22:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:22:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:22:32 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 3:23:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (2) Errors!    -    11/11/2017 3:23:18 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:23:18 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:23:18 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 3:23:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 3:23:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:23:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:23:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 3:24:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 3:24:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:24:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:24:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 3:31:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 3:31:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:31:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:31:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 3:54:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 3:54:06 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 3:54:06 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 3:54:06 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/11/2017 4:26:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/11/2017 4:26:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/11/2017 4:26:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/11/2017 4:26:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/12/2017 6:42:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/12/2017 6:42:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/12/2017 6:42:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/12/2017 6:42:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/12/2017 6:46:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/12/2017 6:46:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/12/2017 6:46:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/12/2017 6:46:02 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/12/2017 6:46:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (2) Errors!    -    11/12/2017 6:46:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/12/2017 6:46:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/12/2017 6:46:23 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/12/2017 6:50:21 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/13/2017 3:27:15 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/13/2017 3:27:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/13/2017 3:27:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/13/2017 3:27:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/13/2017 4:07:27 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/13/2017 4:07:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/13/2017 4:07:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/13/2017 4:07:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/13/2017 4:12:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/13/2017 4:12:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/13/2017 4:12:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/13/2017 4:12:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/13/2017 5:14:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (2) Errors!    -    11/13/2017 5:14:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/13/2017 5:14:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/13/2017 5:14:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/13/2017 7:49:56 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/13/2017 7:49:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/13/2017 7:49:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/13/2017 7:49:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 7:29:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 7:29:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 7:29:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 7:29:24 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 7:56:15 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 7:56:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 7:56:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 7:56:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 8:48:15 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 8:48:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 8:48:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 8:48:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 8:52:47 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 8:52:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 8:52:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 8:52:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 8:54:49 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 8:54:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 8:54:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 8:54:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:03:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:03:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:03:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:03:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:05:50 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:05:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:05:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:05:52 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:10:04 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:10:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:10:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:10:05 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:12:28 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:12:29 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:12:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:12:30 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:18:00 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:18:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:18:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:18:01 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:18:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:18:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:18:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:18:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:18:53 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:18:54 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:18:54 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:18:54 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/14/2017 9:23:22 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:23:35 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:23:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:23:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:23:36 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:40:39 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/14/2017 9:40:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/14/2017 9:40:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/14/2017 9:40:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/14/2017 9:43:48 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/15/2017 6:24:12 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/15/2017 6:24:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/15/2017 6:24:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/15/2017 6:24:13 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/15/2017 6:24:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/15/2017 6:57:57 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/15/2017 6:57:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/15/2017 6:57:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/15/2017 6:57:58 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/15/2017 6:59:39 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/15/2017 6:59:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/15/2017 6:59:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/15/2017 6:59:40 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/15/2017 7:00:09 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/15/2017 7:00:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/15/2017 7:00:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/15/2017 7:00:10 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server Has been stoped...    -    11/15/2017 7:00:20 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/15/2017 9:10:25 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/15/2017 9:10:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/15/2017 9:10:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/15/2017 9:10:26 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/15/2017 9:12:16 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/15/2017 9:12:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/15/2017 9:12:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/15/2017 9:12:17 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/15/2017 9:15:41 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/15/2017 9:15:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/15/2017 9:15:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/15/2017 9:15:42 PM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting a System check...    -    11/24/2017 9:57:44 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+System check came back with (1) Errors!    -    11/24/2017 9:57:46 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Starting Server...    -    11/24/2017 9:57:46 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
+Server is primed and ready to go on port 4525     -    11/24/2017 9:57:46 AM   DESKTOP-1N1KRQF   Microsoft Windows NT 6.2.9200.0
